@@ -48,9 +48,7 @@ public class Main {
 
 
     //Potencia: (Luis)
-
-
-
-
-
+    public static double Potencia(double a,double b){
+        return Math.pow(a, b);
+    }
 }
