@@ -24,10 +24,9 @@ public class Main {
     --------------------*/
 
     //Suma: (Leo)
-
-
-
-
+    public static double Suma(double a,double b){
+        return a+b;
+    }
 
     //Resta: (Daniel)
 
