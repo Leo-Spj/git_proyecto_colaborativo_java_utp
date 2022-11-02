@@ -9,6 +9,7 @@ Cada integrante hará una función.
 * Resta (Daniel).
 * Multiplication (Leslie).
 * Division (Ricardo).
+* Potencia (Luis).
 
 Luego se unirán mediante git.
 
@@ -16,6 +17,8 @@ Luego se unirán mediante git.
 No trabajen sobre la rama principal, creen una nueva.
 * git branch 'NuevaRama'
 * git checkout 'NuevaRama'
+* git push origin 'NuevaRama'
+
 ---
 
 ## Atención:

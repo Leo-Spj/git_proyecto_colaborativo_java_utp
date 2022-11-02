@@ -1,7 +1,56 @@
 package org.example;
+/*
+* Practicando colaboracion Git - Github.
+Objetivos:
+Hacer una calculadora mediante funciones básicas. Cada integrante hará una función.
 
+Reparto:
+
+Suma (Leo).
+Resta (Daniel).
+Multiplication (Leslie).
+Division (Ricardo).
+Potencia (Luis).
+* */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+        //Aquí se operarán las funciones.
+
     }
+
+    /*-------------------
+    ---- FUNCIONES:
+    --------------------*/
+
+    //Suma: (Leo)
+
+
+
+
+
+    //Resta: (Daniel)
+
+
+
+
+
+    //Multiplicación: (Leslie)
+
+
+
+
+
+    //Division:(Ricardo)
+
+
+
+
+
+    //Potencia: (Luis)
+
+
+
+
+
 }
