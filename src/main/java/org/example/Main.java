@@ -23,10 +23,7 @@ public class Main {
     ---- FUNCIONES:
     --------------------*/
 
-    //Suma: (Leo)
-    public static double Suma(double a,double b){
-        return a+b;
-    }
+
 
     //Resta: (Daniel)
 
@@ -49,5 +46,10 @@ public class Main {
     //Potencia: (Luis)
     public static double Potencia(double a,double b){
         return Math.pow(a, b);
+    }
+
+    //Suma: (Leo)
+    public static double Suma(double a,double b){
+        return a+b;
     }
 }
