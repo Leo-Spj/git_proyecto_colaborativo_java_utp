@@ -37,11 +37,10 @@ public class Main {
 
 
 
-    //Division:(Ricardo)
-
-
-
-
+    //Division:(Luis)
+    public static double Division(double a, double b){
+        return a/b;
+    }
 
     //Potencia: (Luis)
     public static double Potencia(double a,double b){
